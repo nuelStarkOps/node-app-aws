@@ -17,7 +17,6 @@ git clone https://github.com/nuelStarkOps/node-app-aws
 cd node-app-aws
 
 # install node and necessary dependencies
-sudo apt install node -y
 sudo apt install npm -y
 
 # install node packages
