@@ -1,0 +1,56 @@
+# Node.js modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Debugging files
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# OS-specific files
+Thumbs.db
+.DS_Store
+
+# Dependency directories
+.bower_components/
+jspm_packages/
+
+# Build and output
+build/
+dist/
+tmp/
+out/
+
+# IDE and editor configs
+.idea/
+*.iml
+*.suo
+*.ntvs*
+*.njsproj
+*.tsbuildinfo
+*.log
+
+# Coverage files
+coverage/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Cache files
+.cache/
+.eslintcache
+.nyc_output/
